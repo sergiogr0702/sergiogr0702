@@ -63,8 +63,6 @@
         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="csharp" width="40" height="40"/> </a>
         <br>C#
       </td>
-    </tr>
-    <tr>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center;">
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a>
         <br>CSS
@@ -77,6 +75,8 @@
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
         <br>Docker
       </td>
+    </tr>
+    <tr>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center;">
         <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a>
         <br>Express
@@ -89,8 +89,6 @@
         <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
         <br>GCP
       </td>
-    </tr>
-    <tr>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center;">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
         <br>Git
@@ -141,8 +139,6 @@
         <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=next" alt="nextjs" width="40" height="40"/> </a>
         <br>NextJS
       </td>
-    </tr>
-    <tr>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center;">
         <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a>
         <br>NodeJS
@@ -155,6 +151,8 @@
         <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a>
         <br>PHP
       </td>
+    </tr>
+    <tr>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center;">
         <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="40" height="40"/> </a>
         <br>PostgreSQL
@@ -167,8 +165,6 @@
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="40" height="40"/> </a>
         <br>ReactJS
       </td>
-    </tr>
-    <tr>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center;">
         <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="redux" width="40" height="40"/> </a>
         <br>Redux
@@ -186,17 +182,10 @@
 <details>
 <summary>GitHub Profile Stats 💻</summary>
 <br/>
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiogr0702&show_icons=true&locale=en&layout=compact&theme=dracula#gh-dark-mode-only" alt="sergiogr0702" height="192px" /></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiogr0702&show_icons=true&locale=en&layout=compact&theme=default#gh-light-mode-only" alt="sergiogr0702" height="192px" /></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=sergiogr0702&show_icons=true&locale=en&theme=dracula#gh-dark-mode-only" alt="sergiogr0702" height="192px" /></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=sergiogr0702&show_icons=true&locale=en&theme=default#gh-light-mode-only" alt="sergiogr0702" height="192px" /></p>
-</div>
+<a href="https://github.com/sergiogr0702/"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiogr0702&show_icons=true&locale=en&layout=compact&theme=transparent" alt="sergiogr0702" height="192px" /></a>
+<a href="https://github.com/sergiogr0702/"><img src="https://github-readme-stats.vercel.app/api?username=sergiogr0702&show_icons=true&locale=en&theme=transparent" alt="sergiogr0702" height="192px" /></a>
+<br/>
 </details>
-
 
 <details>
   <summary>Activity Graph 📈</summary>
